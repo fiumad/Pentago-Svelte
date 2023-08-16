@@ -1,0 +1,20 @@
+/<Piece value={show(0,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(1,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(2,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(3,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(4,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(5,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(6,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(7,0,1)} on:click={pick(0,0)}/>
+    <Piece value={show(8,0,1)} on:click={pick(0,0)}/>
+</div>
+<div class="Pentago-Grid">
+    <Piece value={show(0,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(1,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(2,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(3,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(4,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(5,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(6,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(7,1,1)} on:click={pick(0,0)}/>
+    <Piece value={show(8,1,1)} on:click={pick(0,0)}/>
